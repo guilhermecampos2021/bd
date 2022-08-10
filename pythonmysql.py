@@ -1,6 +1,6 @@
 """
 https://www.udemy.com/course/python-mysql/learn/lecture/12662988?start=240#questions
-Código extraido das aulas ministrada pelo Prof. Pedro Magalhaes Martins
+Código extraido das aulas ministrada pelo Prof. Pedro Magalhaes Martins com algumas adaptações
 https://www.udemy.com/user/pedro-magalhaes-martins/
 
 O Banco de Dados foi criado no MySQL Workbench
